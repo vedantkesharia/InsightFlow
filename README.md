@@ -4,7 +4,7 @@
 **InsightFlow** is a **production-style, end-to-end data engineering pipeline** that demonstrates the journey of data from **raw ingestion** to **business-ready insights**.  
 
 The project simulates a real-world enterprise workflow where data is:
-1. **Collected** from an external source (API or repository)  
+1. **Collected** from an external source 
 2. **Stored** safely in a scalable cloud storage layer  
 3. **Transformed and validated** at scale using distributed computing  
 4. **Modeled** into analytics-ready fact and dimension tables  
@@ -171,14 +171,6 @@ The **Power BI dashboards** in InsightFlow convert processed data into **actiona
 - Lakehouse analytics with Synapse + Power BI
 - Secure, modular, and production-ready architecture
 
----
-
-## 🚀 Future Enhancements
-- Incremental data loads
-- Delta Lake MERGE operations
-- Data quality checks and monitoring
-- CI/CD for pipelines and notebooks
-- Advanced KPI dashboards
 
 ---
 
